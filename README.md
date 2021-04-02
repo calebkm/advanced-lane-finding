@@ -13,4 +13,4 @@ thresholds to generate a binary image.
 7) Determine the vehicle off set from center using the left and right lane lines averaged compared to the center of the image frame.
 8) Merge the found lane lines back on to the original image frame and include the curvature and centering data.
 
-Have a look at the final [video output!](output_videos/project_video.mp4)
+Have a look at the final [output video on YouTube!](https://youtu.be/Ug6-X9HLPt0)
